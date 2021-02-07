@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="eScooter/Base.lproj/Main.storyboard" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="0O6-zO-NQo.text" xml:space="preserve">
+        <source>Back</source>
+        <target>Back</target>
+        <note>Class = "UILabel"; text = "Back"; ObjectID = "0O6-zO-NQo";</note>
+      </trans-unit>
+      <trans-unit id="1K9-vC-p2N.text" xml:space="preserve">
+        <source>Customer Services</source>
+        <target>Customer Services</target>
+        <note>Class = "UILabel"; text = "Customer Services"; ObjectID = "1K9-vC-p2N";</note>
+      </trans-unit>
+      <trans-unit id="3Dv-YN-g4q.text" xml:space="preserve">
+        <source>Back</source>
+        <target>Back</target>
+        <note>Class = "UILabel"; text = "Back"; ObjectID = "3Dv-YN-g4q";</note>
+      </trans-unit>
+      <trans-unit id="3nB-OS-FG6.text" xml:space="preserve">
+        <source>Street</source>
+        <target>Street</target>
+        <note>Class = "UILabel"; text = "Street"; ObjectID = "3nB-OS-FG6";</note>
+      </trans-unit>
+      <trans-unit id="3rk-23-rI5.normalTitle" xml:space="preserve">
+        <source>search_again</source>
+        <target>search_again</target>
+        <note>Class = "UIButton"; normalTitle = "search_again"; ObjectID = "3rk-23-rI5";</note>
+      </trans-unit>
+      <trans-unit id="5o3-ss-tOu.text" xml:space="preserve">
+        <source>Home</source>
+        <target>Home</target>
+        <note>Class = "UILabel"; text = "Home"; ObjectID = "5o3-ss-tOu";</note>
+      </trans-unit>
+      <trans-unit id="5xc-CD-x8h.text" xml:space="preserve">
+        <source>support@terasys-network.com</source>
+        <target>support@terasys-network.com</target>
+        <note>Class = "UILabel"; text = "support@terasys-network.com"; ObjectID = "5xc-CD-x8h";</note>
+      </trans-unit>
+      <trans-unit id="7tD-Ku-fxp.text" xml:space="preserve">
+        <source>Back</source>
+        <target>Back</target>
+        <note>Class = "UILabel"; text = "Back"; ObjectID = "7tD-Ku-fxp";</note>
+      </trans-unit>
+      <trans-unit id="8Sm-e5-SIP.text" xml:space="preserve">
+        <source>0000</source>
+        <target>0000</target>
+        <note>Class = "UILabel"; text = "0000"; ObjectID = "8Sm-e5-SIP";</note>
+      </trans-unit>
+      <trans-unit id="8tb-dT-JwH.text" xml:space="preserve">
+        <source>2020.12.10</source>
+        <target>2020.12.10</target>
+        <note>Class = "UILabel"; text = "2020.12.10"; ObjectID = "8tb-dT-JwH";</note>
+      </trans-unit>
+      <trans-unit id="9Lf-Zf-lvm.title" xml:space="preserve">
+        <source>More</source>
+        <target>More</target>
+        <note>Class = "UITabBarItem"; title = "More"; ObjectID = "9Lf-Zf-lvm";</note>
+      </trans-unit>
+      <trans-unit id="9WQ-7D-FGy.normalTitle" xml:space="preserve">
+        <source>Send</source>
+        <target>Send</target>
+        <note>Class = "UIButton"; normalTitle = "Send"; ObjectID = "9WQ-7D-FGy";</note>
+      </trans-unit>
+      <trans-unit id="11z-UW-842.text" xml:space="preserve">
+        <source>User name</source>
+        <target>User name</target>
+        <note>Class = "UILabel"; text = "User name"; ObjectID = "11z-UW-842";</note>
+      </trans-unit>
+      <trans-unit id="108-bJ-Hwo.text" xml:space="preserve">
+        <source>000</source>
+        <target>000</target>
+        <note>Class = "UILabel"; text = "000"; ObjectID = "108-bJ-Hwo";</note>
+      </trans-unit>
+      <trans-unit id="AhC-VO-GKc.text" xml:space="preserve">
+        <source>000</source>
+        <target>000</target>
+        <note>Class = "UILabel"; text = "000"; ObjectID = "AhC-VO-GKc";</note>
+      </trans-unit>
+      <trans-unit id="Cnc-U9-hM9.text" xml:space="preserve">
+        <source>0.0</source>
+        <target>0.0</target>
+        <note>Class = "UILabel"; text = "0.0"; ObjectID = "Cnc-U9-hM9";</note>
+      </trans-unit>
+      <trans-unit id="Imn-dW-Rv2.segmentTitles[0]" xml:space="preserve">
+        <source>Push-Start</source>
+        <target>Push-Start</target>
+        <note>Class = "UISegmentedControl"; Imn-dW-Rv2.segmentTitles[0] = "Push-Start"; ObjectID = "Imn-dW-Rv2";</note>
+      </trans-unit>
+      <trans-unit id="Imn-dW-Rv2.segmentTitles[1]" xml:space="preserve">
+        <source>Zero-Start</source>
+        <target>Zero-Start</target>
+        <note>Class = "UISegmentedControl"; Imn-dW-Rv2.segmentTitles[1] = "Zero-Start"; ObjectID = "Imn-dW-Rv2";</note>
+      </trans-unit>
+      <trans-unit id="K9e-QX-u2f.title" xml:space="preserve">
+        <source>Main</source>
+        <target>Main</target>
+        <note>Class = "UITabBarItem"; title = "Main"; ObjectID = "K9e-QX-u2f";</note>
+      </trans-unit>
+      <trans-unit id="Ky0-sj-SYW.text" xml:space="preserve">
+        <source>About</source>
+        <target>About</target>
+        <note>Class = "UILabel"; text = "About"; ObjectID = "Ky0-sj-SYW";</note>
+      </trans-unit>
+      <trans-unit id="MZ5-7V-YmQ.text" xml:space="preserve">
+        <source>About</source>
+        <target>About</target>
+        <note>Class = "UILabel"; text = "About"; ObjectID = "MZ5-7V-YmQ";</note>
+      </trans-unit>
+      <trans-unit id="NXo-Ph-bRY.text" xml:space="preserve">
+        <source>Phase circuit of motor</source>
+        <target>Phase circuit of motor</target>
+        <note>Class = "UILabel"; text = "Phase circuit of motor"; ObjectID = "NXo-Ph-bRY";</note>
+      </trans-unit>
+      <trans-unit id="Npw-53-3fj.title" xml:space="preserve">
+        <source>Setting</source>
+        <target>Setting</target>
+        <note>Class = "UITabBarItem"; title = "Setting"; ObjectID = "Npw-53-3fj";</note>
+      </trans-unit>
+      <trans-unit id="P0U-q2-MY6.text" xml:space="preserve">
+        <source>Cruise Control</source>
+        <target>Cruise Control</target>
+        <note>Class = "UILabel"; text = "Cruise Control"; ObjectID = "P0U-q2-MY6";</note>
+      </trans-unit>
+      <trans-unit id="PXJ-OC-OgZ.text" xml:space="preserve">
+        <source>Self-Diagnostics</source>
+        <target>Self-Diagnostics</target>
+        <note>Class = "UILabel"; text = "Self-Diagnostics"; ObjectID = "PXJ-OC-OgZ";</note>
+      </trans-unit>
+      <trans-unit id="PY1-fb-1Tu.text" xml:space="preserve">
+        <source>S/N</source>
+        <target>S/N</target>
+        <note>Class = "UILabel"; text = "S/N"; ObjectID = "PY1-fb-1Tu";</note>
+      </trans-unit>
+      <trans-unit id="Pmg-La-7rV.text" xml:space="preserve">
+        <source>Zip</source>
+        <target>Zip</target>
+        <note>Class = "UILabel"; text = "Zip"; ObjectID = "Pmg-La-7rV";</note>
+      </trans-unit>
+      <trans-unit id="QaF-sI-YIk.text" xml:space="preserve">
+        <source>0.0</source>
+        <target>0.0</target>
+        <note>Class = "UILabel"; text = "0.0"; ObjectID = "QaF-sI-YIk";</note>
+      </trans-unit>
+      <trans-unit id="R1B-7T-1qs.placeholder" xml:space="preserve">
+        <source>S/N</source>
+        <target>S/N</target>
+        <note>Class = "UITextField"; placeholder = "S/N"; ObjectID = "R1B-7T-1qs";</note>
+      </trans-unit>
+      <trans-unit id="SkA-we-GXU.normalTitle" xml:space="preserve">
+        <source>Login</source>
+        <target>Login</target>
+        <note>Class = "UIButton"; normalTitle = "Login"; ObjectID = "SkA-we-GXU";</note>
+      </trans-unit>
+      <trans-unit id="SpA-Dy-2y9.text" xml:space="preserve">
+        <source>Home</source>
+        <target>Home</target>
+        <note>Class = "UILabel"; text = "Home"; ObjectID = "SpA-Dy-2y9";</note>
+      </trans-unit>
+      <trans-unit id="SzS-3i-8vE.text" xml:space="preserve">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "SzS-3i-8vE";</note>
+      </trans-unit>
+      <trans-unit id="T1z-XA-TG5.text" xml:space="preserve">
+        <source>Change Avatar</source>
+        <target>Change Avatar</target>
+        <note>Class = "UILabel"; text = "Change Avatar"; ObjectID = "T1z-XA-TG5";</note>
+      </trans-unit>
+      <trans-unit id="TNo-oK-wCw.text" xml:space="preserve">
+        <source>Services and products with Swiss quality</source>
+        <target>Services and products with Swiss quality</target>
+        <note>Class = "UILabel"; text = "Services and products with Swiss quality"; ObjectID = "TNo-oK-wCw";</note>
+      </trans-unit>
+      <trans-unit id="Tpy-pd-kNB.text" xml:space="preserve">
+        <source>0000</source>
+        <target>0000</target>
+        <note>Class = "UILabel"; text = "0000"; ObjectID = "Tpy-pd-kNB";</note>
+      </trans-unit>
+      <trans-unit id="TqO-Pn-5Mu.text" xml:space="preserve">
+        <source>Back</source>
+        <target>Back</target>
+        <note>Class = "UILabel"; text = "Back"; ObjectID = "TqO-Pn-5Mu";</note>
+      </trans-unit>
+      <trans-unit id="Up9-JB-vpZ.text" xml:space="preserve">
+        <source>Message:</source>
+        <target>Message:</target>
+        <note>Class = "UILabel"; text = "Message:"; ObjectID = "Up9-JB-vpZ";</note>
+      </trans-unit>
+      <trans-unit id="V5F-op-U2X.normalTitle" xml:space="preserve">
+        <source>Log out</source>
+        <target>Log out</target>
+        <note>Class = "UIButton"; normalTitle = "Log out"; ObjectID = "V5F-op-U2X";</note>
+      </trans-unit>
+      <trans-unit id="VU3-E2-9kh.text" xml:space="preserve">
+        <source>30%</source>
+        <target>30%</target>
+        <note>Class = "UILabel"; text = "30%"; ObjectID = "VU3-E2-9kh";</note>
+      </trans-unit>
+      <trans-unit id="W8p-1R-K3M.text" xml:space="preserve">
+        <source>0000</source>
+        <target>0000</target>
+        <note>Class = "UILabel"; text = "0000"; ObjectID = "W8p-1R-K3M";</note>
+      </trans-unit>
+      <trans-unit id="XRc-az-fIU.text" xml:space="preserve">
+        <source>Back</source>
+        <target>Back</target>
+        <note>Class = "UILabel"; text = "Back"; ObjectID = "XRc-az-fIU";</note>
+      </trans-unit>
+      <trans-unit id="Xmk-aL-uWh.text" xml:space="preserve">
+        <source>Home</source>
+        <target>Home</target>
+        <note>Class = "UILabel"; text = "Home"; ObjectID = "Xmk-aL-uWh";</note>
+      </trans-unit>
+      <trans-unit id="Y5s-fU-zeB.title" xml:space="preserve">
+        <source>bluetooth</source>
+        <target>bluetooth</target>
+        <note>Class = "UITabBarItem"; title = "bluetooth"; ObjectID = "Y5s-fU-zeB";</note>
+      </trans-unit>
+      <trans-unit id="aGA-yw-yUH.text" xml:space="preserve">
+        <source>No account yet? Create one</source>
+        <target>No account yet? Create one</target>
+        <note>Class = "UILabel"; text = "No account yet? Create one"; ObjectID = "aGA-yw-yUH";</note>
+      </trans-unit>
+      <trans-unit id="aiA-an-j2b.text" xml:space="preserve">
+        <source>Version</source>
+        <target>Version</target>
+        <note>Class = "UILabel"; text = "Version"; ObjectID = "aiA-an-j2b";</note>
+      </trans-unit>
+      <trans-unit id="d4e-6V-PPh.text" xml:space="preserve">
+        <source>Version</source>
+        <target>Version</target>
+        <note>Class = "UILabel"; text = "Version"; ObjectID = "d4e-6V-PPh";</note>
+      </trans-unit>
+      <trans-unit id="dVJ-zU-yhh.text" xml:space="preserve">
+        <source>Hall Sensor</source>
+        <target>Hall Sensor</target>
+        <note>Class = "UILabel"; text = "Hall Sensor"; ObjectID = "dVJ-zU-yhh";</note>
+      </trans-unit>
+      <trans-unit id="dcq-1I-7SU.text" xml:space="preserve">
+        <source>Home</source>
+        <target>Home</target>
+        <note>Class = "UILabel"; text = "Home"; ObjectID = "dcq-1I-7SU";</note>
+      </trans-unit>
+      <trans-unit id="do9-ma-Wmk.text" xml:space="preserve">
+        <source>Self-Diagnostics</source>
+        <target>Self-Diagnostics</target>
+        <note>Class = "UILabel"; text = "Self-Diagnostics"; ObjectID = "do9-ma-Wmk";</note>
+      </trans-unit>
+      <trans-unit id="eHk-la-6EG.text" xml:space="preserve">
+        <source>KMH/MOH</source>
+        <target>KMH/MOH</target>
+        <note>Class = "UILabel"; text = "KMH/MOH"; ObjectID = "eHk-la-6EG";</note>
+      </trans-unit>
+      <trans-unit id="eXn-U5-n4w.text" xml:space="preserve">
+        <source>Home</source>
+        <target>Home</target>
+        <note>Class = "UILabel"; text = "Home"; ObjectID = "eXn-U5-n4w";</note>
+      </trans-unit>
+      <trans-unit id="eid-VP-6gX.text" xml:space="preserve">
+        <source>ODO</source>
+        <target>ODO</target>
+        <note>Class = "UILabel"; text = "ODO"; ObjectID = "eid-VP-6gX";</note>
+      </trans-unit>
+      <trans-unit id="etg-E4-S9z.text" xml:space="preserve">
+        <source>Battery Boltage</source>
+        <target>Battery Boltage</target>
+        <note>Class = "UILabel"; text = "Battery Boltage"; ObjectID = "etg-E4-S9z";</note>
+      </trans-unit>
+      <trans-unit id="ezg-b2-LWV.text" xml:space="preserve">
+        <source>Subject: </source>
+        <target>Subject: </target>
+        <note>Class = "UILabel"; text = "Subject: "; ObjectID = "ezg-b2-LWV";</note>
+      </trans-unit>
+      <trans-unit id="g5n-eM-qu4.text" xml:space="preserve">
+        <source>User Name:</source>
+        <target>User Name:</target>
+        <note>Class = "UILabel"; text = "User Name:"; ObjectID = "g5n-eM-qu4";</note>
+      </trans-unit>
+      <trans-unit id="gEp-tZ-Nos.text" xml:space="preserve">
+        <source>Version: 1.0.0</source>
+        <target>Version: 1.0.0</target>
+        <note>Class = "UILabel"; text = "Version: 1.0.0"; ObjectID = "gEp-tZ-Nos";</note>
+      </trans-unit>
+      <trans-unit id="gG7-Cy-Qcg.text" xml:space="preserve">
+        <source>Controller</source>
+        <target>Controller</target>
+        <note>Class = "UILabel"; text = "Controller"; ObjectID = "gG7-Cy-Qcg";</note>
+      </trans-unit>
+      <trans-unit id="gJX-ng-Gyf.text" xml:space="preserve">
+        <source>KMH/MOH</source>
+        <target>KMH/MOH</target>
+        <note>Class = "UILabel"; text = "KMH/MOH"; ObjectID = "gJX-ng-Gyf";</note>
+      </trans-unit>
+      <trans-unit id="gUe-a6-3QN.placeholder" xml:space="preserve">
+        <source>password</source>
+        <target>password</target>
+        <note>Class = "UITextField"; placeholder = "password"; ObjectID = "gUe-a6-3QN";</note>
+      </trans-unit>
+      <trans-unit id="gsG-37-MMo.text" xml:space="preserve">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "gsG-37-MMo";</note>
+      </trans-unit>
+      <trans-unit id="hBQ-h0-I9F.text" xml:space="preserve">
+        <source>Town</source>
+        <target>Town</target>
+        <note>Class = "UILabel"; text = "Town"; ObjectID = "hBQ-h0-I9F";</note>
+      </trans-unit>
+      <trans-unit id="iN1-7J-adi.text" xml:space="preserve">
+        <source>Startup Setting</source>
+        <target>Startup Setting</target>
+        <note>Class = "UILabel"; text = "Startup Setting"; ObjectID = "iN1-7J-adi";</note>
+      </trans-unit>
+      <trans-unit id="iTu-3p-rgZ.text" xml:space="preserve">
+        <source>Email to: </source>
+        <target>Email to: </target>
+        <note>Class = "UILabel"; text = "Email to: "; ObjectID = "iTu-3p-rgZ";</note>
+      </trans-unit>
+      <trans-unit id="ja4-QB-5dk.text" xml:space="preserve">
+        <source>0%</source>
+        <target>0%</target>
+        <note>Class = "UILabel"; text = "0%"; ObjectID = "ja4-QB-5dk";</note>
+      </trans-unit>
+      <trans-unit id="pxJ-bT-JmK.normalTitle" xml:space="preserve">
+        <source>Start</source>
+        <target>Start</target>
+        <note>Class = "UIButton"; normalTitle = "Start"; ObjectID = "pxJ-bT-JmK";</note>
+      </trans-unit>
+      <trans-unit id="rav-1x-cQc.text" xml:space="preserve">
+        <source>0000</source>
+        <target>0000</target>
+        <note>Class = "UILabel"; text = "0000"; ObjectID = "rav-1x-cQc";</note>
+      </trans-unit>
+      <trans-unit id="sSi-TG-kRE.placeholder" xml:space="preserve">
+        <source>name</source>
+        <target>name</target>
+        <note>Class = "UITextField"; placeholder = "name"; ObjectID = "sSi-TG-kRE";</note>
+      </trans-unit>
+      <trans-unit id="scH-Kc-qq9.text" xml:space="preserve">
+        <source>0000</source>
+        <target>0000</target>
+        <note>Class = "UILabel"; text = "0000"; ObjectID = "scH-Kc-qq9";</note>
+      </trans-unit>
+      <trans-unit id="sj1-Ff-OdW.text" xml:space="preserve">
+        <source>Switch Between</source>
+        <target>Switch Between</target>
+        <note>Class = "UILabel"; text = "Switch Between"; ObjectID = "sj1-Ff-OdW";</note>
+      </trans-unit>
+      <trans-unit id="t1J-hO-9G0.text" xml:space="preserve">
+        <source>Acceleractor</source>
+        <target>Acceleractor</target>
+        <note>Class = "UILabel"; text = "Acceleractor"; ObjectID = "t1J-hO-9G0";</note>
+      </trans-unit>
+      <trans-unit id="tCM-B5-0wN.text" xml:space="preserve">
+        <source>Home</source>
+        <target>Home</target>
+        <note>Class = "UILabel"; text = "Home"; ObjectID = "tCM-B5-0wN";</note>
+      </trans-unit>
+      <trans-unit id="xpQ-kl-KKF.text" xml:space="preserve">
+        <source>Back</source>
+        <target>Back</target>
+        <note>Class = "UILabel"; text = "Back"; ObjectID = "xpQ-kl-KKF";</note>
+      </trans-unit>
+      <trans-unit id="y1J-ny-O79.text" xml:space="preserve">
+        <source>Name</source>
+        <target>Name</target>
+        <note>Class = "UILabel"; text = "Name"; ObjectID = "y1J-ny-O79";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="eScooter/en.lproj/InfoPlist.strings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>eScooter</source>
+        <target>eScooter</target>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSBluetoothAlwaysUsageDescription" xml:space="preserve">
+        <source>${PRODUCT_NAME} uses Bluetooth to receive data from scooter.</source>
+        <target>${PRODUCT_NAME} uses Bluetooth to receive data from scooter.</target>
+        <note>Privacy - Bluetooth Always Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSBluetoothPeripheralUsageDescription" xml:space="preserve">
+        <source>${PRODUCT_NAME} uses Bluetooth to receive data from scooter.</source>
+        <target>${PRODUCT_NAME} uses Bluetooth to receive data from scooter.</target>
+        <note>Privacy - Bluetooth Peripheral Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSLocationWhenInUseUsageDescription" xml:space="preserve">
+        <source>${PRODUCT_NAME} get user location to tracking user location.</source>
+        <target>${PRODUCT_NAME} get user location to tracking user location.</target>
+        <note>Privacy - Location When In Use Usage Description</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="eScooter/en.lproj/Localizable.strings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="search_again" xml:space="preserve">
+        <source>search_again</source>
+        <target>search_again</target>
+        <note>The name of the animal</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

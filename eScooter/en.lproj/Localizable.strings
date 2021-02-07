@@ -1,0 +1,62 @@
+/* 
+  Localizable.strings
+  eScooter
+
+  Created by Dove on 08/12/2020.
+  Copyright © 2020 Dove. All rights reserved.
+*/
+
+"search_again" = "Search";
+"login" = "Login";
+"login_empty_name" = "Please enter your name.";
+"login_empty_pwd" = "Please enter your password.";
+"login_empty_sn" = "Please enter your scooter serial number.";
+"wrong_serial_number" = "Serial number is invalid, Please contact with administrator.";
+"request_error" = "Oops! Something went wrong.";
+"connect" = "Connecting";
+"username" = "User Name ";
+"password" = "Password ";
+"serial_number" = "S/N";
+"startup setting" = "Startup Setting";
+"cruise control" = "Cruise Control";
+"switch between" = "Switch between";
+"self diagnostics" = "self-diagnostics";
+"change avatar" = "Change Avatar";
+"upload_success" = "Avatar uploaded";
+"upload_error" = "Avatar upload failed";
+"try say" = "Try say...";
+"stop" = "Stop";
+"name" = "Name";
+"street" = "Street";
+"zip" = "Zip";
+"town" = "Town";
+"odo" = "ODO";
+"email to" = "Email to: ";
+"user name" = "User Name: ";
+"subject" = "Subject: ";
+"message" = "Message: ";
+"back" = "Back";
+"home" = "Home";
+"about" = "About";
+"custom service" = "Customer Services";
+"invalid_message" = "Please input the message.";
+"sending" = "Sending";
+"version" = "Version";
+"success_message" = "Thanks for your message, We will contact you soon.";
+"about_title" = "Services and products with Swiss quality";
+"connect_success" = "Successfuly connected";
+"about_content" = "We have seen ourselves as a partner-like service provider for our customers since 2004 and do so with passion and Swiss quality.
+
+This app is used to control and manage your e-scooter. When developing this app, we also thought about which additional functions might be of interest to our customers.
+
+We have incorporated the transfer of the most important data to our website directly into your user profile in the app.
+
+The data includes the KM status (IOS/Android Store user). This only serves as a simple and additional protection against theft. If the scooter is used without the app, no data is sent to our database. The scooter should always be locked with the app and secured with a lock.
+
+So that we can send you important information and offers automatically and depending on the mileage, the mileage of your scooter is synchronized in our database and in your profile. So we can inform you if e.g. new tires or brakes are required. This is primarily for your safety.
+
+The app is constantly being developed and feedback / suggestions are very welcome. You are very welcome to let us know.
+
+We wish you a good trip and a lot of fun with your e-scooter.
+
+Your Terasys Network Team";

@@ -1,0 +1,61 @@
+/*
+  Localizable.strings
+  eScooter
+
+  Created by Dove on 08/12/2020.
+  Copyright © 2020 Dove. All rights reserved.
+*/
+
+"search_again" = "Suche";
+"login" = "Einloggen";
+"login_empty_name" = "Bitte geben Sie Ihren Namen ein.";
+"login_empty_pwd" = "Bitte geben Sie Ihr Passwort ein.";
+"login_empty_sn" = "Bitte geben Sie die Seriennummer Ihres Scooters ein.";
+"wrong_serial_number" = "Die Seriennummer ist ungültig. Bitte wenden Sie sich an den Administrator.";
+"request_error" = "Hoppla! Etwas ist schief gelaufen.";
+"connect" = "Wird Verbunden";
+"username" = "Nutzername ";
+"password" = "Passwort ";
+"serial_number" = "S/N";
+"startup setting" = "Starteinstellung";
+"cruise control" = "Tempomat";
+"switch between" = "Masseinheit";
+"self diagnostics" = "Selbstdiagnose";
+"change avatar" = "Benutzerbild";
+"upload_success" = "Avatar hochgeladen";
+"upload_error" = "Avatar-Upload fehlgeschlagen";
+"try say" = "Try say...";
+"stop" = "Stop";
+"name" = "Name";
+"street" = "Straße";
+"zip" = "Zip";
+"town" = "Stadt";
+"odo" = "ODO";
+"email to" = "E-Mail an :";
+"user name" = "Nutzername : ";
+"subject" = "Betreff : ";
+"message" = "Nachricht : ";
+"back" = "Zurück";
+"home" = "Start";
+"about" = "Über";
+"custom service" = "Kundendienst";
+"invalid_message" = "Bitte geben Sie die Nachricht ein.";
+"sending" = "Senden";
+"success_message" = "Vielen Dank für Ihre Nachricht. Wir werden uns bald bei Ihnen melden.";
+"version" = "Version";
+"about_title" = "Dienstleistungen und Produkte mit Schweizer Qualität";
+"about_content" = "Seit 2004 sehen wir uns als partnerschaftlicher Dienstleister für unsere Kunden und tun dies mit Herzblut und Schweizer Qualität.
+
+      Diese App dient zur Steuerung und Verwaltung Ihres E-Scooters. Auch bei der Entwicklung dieser App haben wir uns Gedanken gemacht, welche Zusatzfunktionen für unseren Kunden interessant sein könnten.
+
+      So haben wir die Übertragung der wichtigsten Daten auf unsere Webseite direkt in Ihr Benutzerprofil mit in die App eingebaut.
+
+      Zu den Daten gehören der KM Stand (IOS/Android Store Benutzer). Dies dient lediglich als einfacher und zusätzlicher Diebstahlschutz. Wird der Scooter ohne App verwendet, werden auch keine Daten an unsere Datenbank gesendet. Der Scooter sollte immer zusätzlich mit der App gesperrt und einem Schloss gesichert werden.
+
+      Damit wir Ihnen, automatisch und KM-Stand abhängig, wichtige Informationen und Offerten zukommen lassen können, wird der KM-Stand Ihres Scooters in unsere Datenbank und in Ihr Profil synchronisiert. So können wir Sie Informieren, wenn z.B. neue Reifen oder Bremsen nötig sind. Dies dient vor allem Ihrer Sicherheit.
+
+      Die App wird stetig weiterentwickelt und Feedbacks/Vorschläge sind sehr erwünscht. Diese können Sie uns sehr gerne mitteilen.
+
+      Wir wünschen Ihnen und allzeit gute Fahrt und viel Freude an Ihrem E-Scooter.
+
+      Ihr Terasys-Network Team";

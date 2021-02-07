@@ -1,0 +1,8 @@
+/* Bundle name */
+"CFBundleName" = "eScooter";
+/* Privacy - Bluetooth Always Usage Description */
+"NSBluetoothAlwaysUsageDescription" = "${PRODUCT_NAME} uses Bluetooth to receive data from scooter.";
+/* Privacy - Bluetooth Peripheral Usage Description */
+"NSBluetoothPeripheralUsageDescription" = "${PRODUCT_NAME} uses Bluetooth to receive data from scooter.";
+/* Privacy - Location When In Use Usage Description */
+"NSLocationWhenInUseUsageDescription" = "${PRODUCT_NAME} get user location to tracking user location.";

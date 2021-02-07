@@ -1,0 +1,61 @@
+/*
+  Localizable.strings
+  eScooter
+
+  Created by Dove on 08/12/2020.
+  Copyright © 2020 Dove. All rights reserved.
+*/
+
+"search_again" = "Chercher";
+"login" = "Login";
+"login_empty_name" = "S'il vous plaît entrez votre nom.";
+"login_empty_pwd" = "S'il vous plait entrez votre mot de passe.";
+"login_empty_sn" = "Veuillez saisir le numéro de série de votre scooter.";
+"wrong_serial_number" = "Le numéro de série n'est pas valide, veuillez contacter l'administrateur.";
+"request_error" = "Oups! Un problème est survenu.";
+"connect" = "De liaison";
+"username" = "Nom d'utilisateur ";
+"password" = "Mot de passe ";
+"serial_number" = "S/N";
+"startup setting" = "Setting";
+"cruise control" = "Régulateur de vitesse";
+"switch between" = "Unité de mesure";
+"self diagnostics" = "Auto-diagnostic";
+"change avatar" = "Avatar";
+"upload_success" = "Avatar téléchargé";
+"try say" = "Try say...";
+"stop" = "Stop";
+"upload_error" = "Le téléchargement de l'avatar a échoué";
+"name" = "Nom";
+"street" = "rue";
+"zip" = "Zip";
+"town" = "Ville";
+"odo" = "ODO";
+"email to" = "Envoyer à : ";
+"user name" = "Nom d'utilisateur : ";
+"subject" = "Matière : ";
+"message" = "Message : ";
+"back" = "Retour";
+"home" = "Accueil";
+"about" = "Sur";
+"custom service" = "Service Clients";
+"invalid_message" = "Veuillez saisir le message.";
+"sending" = "Envoi en cours";
+"success_message" = "Merci pour votre message, nous vous contacterons bientôt.";
+"version" = "Version";
+"about_title" = "Services et produits de qualité suisse";
+"about_content" = "Depuis 2004, nous nous considérons comme un fournisseur de services de type partenaire pour nos clients et le faisons avec passion et qualité suisse.
+
+Cette application est utilisée pour contrôler et gérer votre e-scooter. Lors du développement de cette application, nous avons également réfléchi aux fonctions supplémentaires susceptibles d'intéresser nos clients.
+
+Nous avons intégré le transfert des données les plus importantes vers notre site Web directement dans votre profil utilisateur dans l'application.
+
+Les données incluent l'état de KM (utilisateur de la boutique IOS/Android). Cela ne sert que de protection simple et supplémentaire contre le vol. Si le scooter est utilisé sans l'application, aucune donnée n'est envoyée à notre base de données. Le scooter doit toujours être verrouillé avec l'application et sécurisé avec un verrou.
+
+Afin que nous puissions vous envoyer des informations importantes et des offres automatiquement et en fonction du kilométrage, le kilométrage de votre scooter est synchronisé dans notre base de données et dans votre profil. Nous pouvons donc vous informer si par ex. des pneus ou des freins neufs sont nécessaires. C'est principalement pour votre sécurité.
+
+L'application est constamment développée et les commentaires/suggestions sont les bienvenus. N'hésitez pas à nous le faire savoir.
+
+Nous vous souhaitons un bon voyage et beaucoup de plaisir avec votre e-scooter.
+
+Votre équipe réseau Terasys";
