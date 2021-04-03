@@ -15,7 +15,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     var window: UIWindow?   // For iOS 12
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
-        GoogleApi.shared.initialiseWithKey("AIzaSyCCTRn1_-xtk79RRaP4CTYH7a9YRgIQ2KU")
+        GoogleApi.shared.initialiseWithKey("AIzaSyD0JE1E-2lctcbmYgiRBHx5kwD_ntozCTM")
 //       AIzaSyAeaAV_ERqsq0GbV2D5N1V4ZkSZ7el0HrA
         DispatchQueue.main.async(execute: {
             Switcher.updateRootVC()
