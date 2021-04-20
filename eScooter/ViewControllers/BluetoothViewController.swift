@@ -116,10 +116,10 @@ extension BluetoothViewController : UITableViewDelegate, UITableViewDataSource{
         let text = devices[indexPath.row]
         cell.deviceName.text = text.name
         cell.deviceAddress.text = text.identifier.uuidString
-//        if(text.name == "Scooter"){
-//            self.searching = false
-//            self.connect(device: self.devices[indexPath.row])
-//        }
+        if(text.name == "Scooter"){
+            self.searching = false
+            self.connect(device: self.devices[indexPath.row])
+        }
         return cell
     }
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
