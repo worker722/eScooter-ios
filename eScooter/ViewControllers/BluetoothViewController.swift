@@ -83,7 +83,7 @@ class BluetoothViewController: BaseViewController {
         }
     }
     
-    func didDiscoverDevice(peripheral: CBPeripheral){
+    override func discoveredDevice(peripheral: CBPeripheral){
         DispatchQueue.main.async(execute: {
             if peripheral.name?.isEmpty == false && (self.devices.count <= 0 || self.devices.filter({ $0.name == peripheral.name }).count == 0) {
                 self.devices.append(peripheral)
@@ -92,10 +92,14 @@ class BluetoothViewController: BaseViewController {
             self.tableView.reloadData()
         })
     }
-    func didConnect(peripheral: CBPeripheral){
+    override func connected(peripheral: CBPeripheral){
+//        sleep(2)
+//        self.dismissLoading()
         print("connected")
-        self.dismiss(animated: false, completion: nil)
-        Switcher.updateRootVC()
+        DispatchQueue.main.asyncAfter(deadline: .now() + 0.5, execute: {
+            self.goHome();
+            print("home")
+        })
     }
 }
 
@@ -116,10 +120,11 @@ extension BluetoothViewController : UITableViewDelegate, UITableViewDataSource{
         let text = devices[indexPath.row]
         cell.deviceName.text = text.name
         cell.deviceAddress.text = text.identifier.uuidString
-        if(text.name == "Scooter"){
-            self.searching = false
-            self.connect(device: self.devices[indexPath.row])
-        }
+//        if(text.name == "Scooter"){
+//            sleep(5)
+//            self.searching = false
+//            self.connect(device: self.devices[indexPath.row])
+//        }
         return cell
     }
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {

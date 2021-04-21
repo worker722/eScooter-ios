@@ -15,11 +15,11 @@ class Switcher {
         var rootVC : UIViewController?
         let storyboard = UIStoryboard(name: "Main", bundle: nil)
         if(status == true){
-//            if(Utils.connectedDevice == nil){
-//                rootVC = storyboard.instantiateViewController(withIdentifier: "BluetoothViewController") as! BluetoothViewController
-//            }else{
+            if(Utils.connectedDevice == nil){
+                rootVC = storyboard.instantiateViewController(withIdentifier: "BluetoothViewController") as! BluetoothViewController
+            }else{
             rootVC = storyboard.instantiateViewController(withIdentifier: "UITabBarController") as! UITabBarController
-//            }
+            }
         }else{
             rootVC = storyboard.instantiateViewController(withIdentifier: "LoginViewController") as! LoginViewController
         }

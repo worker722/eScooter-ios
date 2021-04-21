@@ -45,11 +45,13 @@ class BaseViewController: UIViewController {
     }
     
     @objc func goBack() {
-        if let nav = self.navigationController {
-            nav.popViewController(animated: true)
-        } else {
-            self.dismiss(animated: true, completion: nil)
-        }
+        DispatchQueue.main.async(execute: {
+            if let nav = self.navigationController {
+                nav.popViewController(animated: true)
+            } else {
+                self.dismiss(animated: true, completion: nil)
+            }
+        })
     }
     func checkConnection(){
         if(Utils.debugging){
@@ -65,7 +67,9 @@ class BaseViewController: UIViewController {
         }
     }
     @objc func goHome() {
-        Switcher.updateRootVC()
+        DispatchQueue.main.async(execute: {
+            Switcher.updateRootVC()
+        })
     }
     
     func discover() {
@@ -152,10 +156,10 @@ class BaseViewController: UIViewController {
         (Utils.mMain as? DiagnosticsViewController)?.didUpdateValues()
     }
     func discoveredDevice(peripheral: CBPeripheral){
-        (Utils.mMain as? BluetoothViewController)?.didDiscoverDevice(peripheral:peripheral)
+        print("discoverd device 1");
     }
     func connected(peripheral: CBPeripheral){
-        (Utils.mMain as? BluetoothViewController)?.didConnect(peripheral: peripheral)
+        print("connected 1");
     }
 }
 
